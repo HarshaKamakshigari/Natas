@@ -294,14 +294,3 @@ Password: " or ""="
 ```sql
 natas16" AND SUBSTRING(password,1,1)="a" #
 ```
-
-**Automation:**
-Python script brute-forces password char-by-char using response behavior.
----
-
-## Author
-
-Documented while solving the labs hands-on.
-Scripts + notes included for **learning & revision**.
-
----
